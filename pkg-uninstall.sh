@@ -20,7 +20,7 @@ usage () {
 	echo "usage: $0 [[-h]|[l|d] PKGID]"
     echo ""
     echo "Options:"
-    echo "  -h          Show tihis usage guide"
+    echo "  -h          Show this usage guide"
     echo "  -l PKGID    Show package files list"
     echo "  -d PKGID    Delete package files"
     echo "              * you must be root"
